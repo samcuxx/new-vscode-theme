@@ -1,0 +1,53 @@
+{
+  "name": "LiL-Yoo",
+  "displayName": "Lilyoo",
+  "description": "This theme is created by Samuel Amoah",
+  "version": "1.0.0",
+  "publisher": "SamuelAmoah",
+  "author": {
+    "name": "Samuel Amoah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lilyoo226/LiL-Yoo-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lilyoo226/LiL-Yoo-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "lilyoo",
+    "samuel",
+    "amoah",
+    "new",
+    "codeSTACKr Themes",
+    "theme",
+    "Cobalt",
+    "Dracula",
+    "codercoder",
+    "vsCodeHero",
+    "freecodecamp"
+  ],
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+
+  "icon": "images/logo.jpg",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LiL Yoo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LiL Yoo-color-theme.json"
+      }
+    ]
+  }
+}
