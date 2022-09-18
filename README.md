@@ -9,7 +9,7 @@ Thanks for checking out my VS Code theme. There are 1 options to choose from:
 - Colorful & Vibrant
 
 
-This theme is part of my [programing js](https://vsCodeHero.com)
+This theme is part of my [programing js](https://github.com/lilyoo226)
 
 Let me teach you everything there is to know about VS Code and make you a VS Code SuperHero too!
 
