@@ -7,13 +7,13 @@ Thanks for checking out my VS Code theme. There are 1 options to choose from:
 - Colorful & Vibrant
 
 ## HTML
-[![LiL Yoo Theme Demo](./images/1.jpg)](https://github.com/lilyoo226)
+[![LiL Yoo Theme Demo](https://raw.githubusercontent.com/lilyoo226/new-vscode-theme/main/images/1.jpg)](https://github.com/lilyoo226)
 
 ## JAVASCRIPT
-[![LiL Yoo Theme Demo](./images/2.jpg)](https://github.com/lilyoo226)
+[![LiL Yoo Theme Demo](https://raw.githubusercontent.com/lilyoo226/new-vscode-theme/main/images/2.jpg)](https://github.com/lilyoo226)
 
 ##CSS
-[![LiL Yoo Theme Demo](./images/3.jpg)](https://github.com/lilyoo226)
+[![LiL Yoo Theme Demo](https://raw.githubusercontent.com/lilyoo226/new-vscode-theme/main/images/3.jpg)](https://github.com/lilyoo226)
 
 
 
