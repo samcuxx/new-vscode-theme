@@ -6,15 +6,13 @@ Thanks for checking out my VS Code theme. There are 1 options to choose from:
 
 - Colorful & Vibrant
 
-
 ## HTML
 [![LiL Yoo Theme Demo](./images/1.jpg)](https://github.com/lilyoo226)
 
-##JAVASCRIPT
-
+## JAVASCRIPT
 [![LiL Yoo Theme Demo](./images/2.jpg)](https://github.com/lilyoo226)
 
-## CSS
+##CSS
 [![LiL Yoo Theme Demo](./images/3.jpg)](https://github.com/lilyoo226)
 
 
@@ -43,3 +41,4 @@ The font that you see in the demo is a modified Monolisa font that is in my gith
 
 For any issues or suggestions, please use [GitHub issues](https://github.com/lilyoo226/LiL-Yoo-theme/issues).
 
+# new-vscode-theme
